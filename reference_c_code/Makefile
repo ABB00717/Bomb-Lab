@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -O0 -g -Wall
+CFLAGS = -O0 -g -Wall -static
 OBJS = bomb.o phases.o support.o
 
 bomb: $(OBJS)
