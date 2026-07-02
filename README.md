@@ -1,6 +1,6 @@
 # Decompiled Bomb Lab
 
-This is a [Bomb Lab from CS:APP](https://csapp.cs.cmu.edu/3e/labs.html) I reversed. it recompiles perfectly and works exactly as expected.
+This is a [Bomb Lab from CS:APP](https://csapp.cs.cmu.edu/3e/labs.html) that I reversed. It recompiles perfectly and works exactly as expected.
 
 ## Build
 
